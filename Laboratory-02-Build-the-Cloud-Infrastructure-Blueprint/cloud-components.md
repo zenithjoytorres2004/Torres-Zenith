@@ -3,7 +3,7 @@
 ## 1. Compute Resources
 
 ### Example
-CPU Cores: 1
+CPU Cores: 2
 
 ### Purpose
 Compute resources provide the processing power needed to run applications, commands, and services.
@@ -17,7 +17,7 @@ The KillerCoda environment provides 1 CPU core. I used the `nproc` command to ch
 ## 2. Storage Resources
 
 ### Example
-Disk Capacity: 19 G
+Disk Capacity: 20 G
 
 ### Purpose
 Storage resources are used to store the operating system, applications, files, and other data.
