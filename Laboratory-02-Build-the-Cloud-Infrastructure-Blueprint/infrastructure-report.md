@@ -12,7 +12,7 @@
 ## CPU
 
 * CPU Model: 42
-* Number of CPU Cores: 1
+* Number of CPU Cores: 2
 
 ## Memory
 
@@ -20,7 +20,7 @@
 
 ## Storage
 
-* Disk Capacity: 19 G
+* Disk Capacity: 20 G
 
 ## Mounted File Systems
 
