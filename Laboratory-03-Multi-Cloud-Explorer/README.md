@@ -19,7 +19,7 @@
 
 ---
 
-# Cloud Hosting Mapping
+# Cloud Host Mapping
 
 If this Linux server were migrated to the cloud, it could be hosted using the following services:
 
@@ -29,7 +29,7 @@ If this Linux server were migrated to the cloud, it could be hosted using the fo
 
 ---
 
-## Screenshots
+## Screenshot
 
 ### Operating System
 ![OS Info](https://github.com/user-attachments/assets/ca1e9f76-b07c-4994-86f0-d9a557b77b5f)
