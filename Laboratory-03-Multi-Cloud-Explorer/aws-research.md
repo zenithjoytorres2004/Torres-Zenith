@@ -1,26 +1,22 @@
-# Amazon Web Services (AWS) Research
+# Amazon Web Services (AWS)
 
-## Overview
-The AWS is a cloud computing platform launched in 2006 by Amazon. It provides a wide range of services including computing, storage, and networking.
+AWS is Amazon’s cloud platform (launched in 2006) that lets you rent computing, storage, and networking online instead of managing physical servers.
 
-## Global Infrastructure
-AWS has multiple Regions and Availability Zones worldwide, ensuring high availability and fault tolerance.
+## Key Features
 
-## Cloud Management Console
-AWS uses the AWS Management Console, a web-based interface to manage cloud services.
+- **Global Infrastructure:** Uses **Regions** and **Availability Zones** worldwide for speed and reliability.
+- **AWS Console:** A web-based dashboard to control all your cloud resources.
 
 ## Core Services
-- EC2 – Virtual servers
-- S3 – Object storage
-- RDS – Managed database
-- VPC – Networking
 
-## Advantages
-- Wide range of services
-- Highly scalable
-- Strong global infrastructure
+| Service | What It Does |
+| :--- | :--- |
+| **EC2** | Virtual servers |
+| **S3** | File & object storage |
+| **RDS** | Managed databases |
+| **VPC** | Private virtual networks |
 
-## Use Cases
-- Web hosting
-- App development
-- Data storage
+## Advantages & Use Cases
+
+- **Benefits:** Highly scalable, cost-effective (pay for what you use), and huge service selection.
+- **Common Uses:** Web hosting, app development, and data backup.
