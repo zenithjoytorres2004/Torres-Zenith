@@ -16,8 +16,8 @@ This task is about working with Docker to run and control applications inside co
 - docker run -d -p 8080:80 nginx
 - curl http://localhost:8080
 - docker ps
-- docker stop <container_id>
-- docker rm <container_id>
+- docker stop 68a764f5b850 <br>
+- docker rm 68a764f5b850 <br>
 
 ## Skills Learned
 - Basic understanding of Docker
