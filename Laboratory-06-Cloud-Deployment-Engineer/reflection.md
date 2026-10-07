@@ -1,8 +1,6 @@
 
 
-### 4. `reflection.md`
 
-```markdown
 # Mission Reflection
 
 This laboratory helped me understand how Docker Compose can make cloud deployment easier and more organized. Instead of manually typing many Docker commands for every container, I can place the configuration in a `docker-compose.yml` file. This allows the services, images, ports, and environment variables to be defined in one place. Once the file is ready, the whole application can be deployed using a single command. This makes the process faster and reduces the chance of forgetting an important configuration.
