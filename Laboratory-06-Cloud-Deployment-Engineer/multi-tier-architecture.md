@@ -1,6 +1,6 @@
 
 
-### 2. `multi-tier-architecture.md`
+
 
 
 # Multi-Tier Architecture
